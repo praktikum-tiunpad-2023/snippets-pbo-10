@@ -17,11 +17,18 @@ Berikut adalah langkah-langkah untuk mengimpor proyek dari file ZIP di NetBeans.
 
 4. **Telusuri File ZIP**: Setelah itu, akan muncul jendela untuk memilih file. Klik tombol **Browse** untuk mencari file ZIP yang telah Anda unduh sebelumnya.
 
-![Tampilan Menu Import](2.png)
+    ![Tampilan Menu Import](2.png)
+
+
 5. **Pilih File ZIP**: Temukan dan pilih file ZIP yang diunduh dari GitHub, lalu klik **Open**.
+
     ![Tampilan Menu Import](3.png)
+
+
 6. **Impor Proyek**: Setelah memilih file, ikuti petunjuk selanjutnya untuk menyelesaikan proses impor proyek.
+
     ![Tampilan Menu Import](4.png)
+
 ## Langkah 3: Menjalankan Proyek
 
 Setelah proyek berhasil diimpor, Anda dapat membukanya di NetBeans dan mulai menjalankannya dengan menekan tombol **Run** atau memilih **Run > Run Project** dari menu.
