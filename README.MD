@@ -1,6 +1,7 @@
 # Panduan Mengimpor Proyek di NetBeans
 
 Berikut adalah langkah-langkah untuk mengimpor proyek dari file ZIP di NetBeans.
+Buat rental user:alif123, pass:123
 
 ## Langkah 1: Unduh Proyek
 
